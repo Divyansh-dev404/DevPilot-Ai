@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing & Coverage
+coverage/
+.pytest_cache/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Environment & IDE
+.env
+.env.local
+.vscode/
+.idea/
+.DS_Store
+
+# Git locks
+index.lock
